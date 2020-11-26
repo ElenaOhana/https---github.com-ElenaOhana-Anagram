@@ -2,16 +2,15 @@ import java.util.Random;
 
 public class ExeFunction02 {
     public static void main(String[] args) {
-        sumOf10RandomPrint();
+        Random rand = new Random();
+        sumOf10RandomPrint(rand);
     }
 
-    private static void sumOf10RandomPrint() {
+    private static void sumOf10RandomPrint(Random random) {
         int count = 0;
-        Random random = new Random();
-        int num = random.nextInt(10) + 1;
         int sum = 0;
         while (count < 10) {
-            sum = 0;
+            int num = random.nextInt(10) + 1;
             sum = sum + num;
             count++;
             System.out.println("Random numbers are " + num + " ");
