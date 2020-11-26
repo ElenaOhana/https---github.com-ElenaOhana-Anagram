@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bzf28bmci89zrnV0HDoFmsQqKD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,7 +34,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
   </component>
-  <component name="RunManager" selected="Application.Exe_Arrays07">
+  <component name="RunManager" selected="Application.Anagram">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Anagram" />
+      <module name="Anagram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Arrays_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_Matrix" />
       <module name="Anagram" />
@@ -40,13 +51,6 @@
     </configuration>
     <configuration name="Exe_Arrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exe_Arrays02" />
-      <module name="Anagram" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exe_Arrays04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exe_Arrays04" />
       <module name="Anagram" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.Exe_Arrays07" />
         <item itemvalue="Application.Exe_Arrays05" />
         <item itemvalue="Application.Arrays_Matrix" />
         <item itemvalue="Application.Exe_Arrays02" />
-        <item itemvalue="Application.Exe_Arrays04" />
       </list>
     </recent_temporary>
   </component>
@@ -90,22 +94,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="188" key="GridCell.Tab.0.bottom" timestamp="1606403773817">
+    <state width="1323" height="188" key="GridCell.Tab.0.bottom" timestamp="1606404943871">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="188" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606403773817" />
-    <state width="1323" height="188" key="GridCell.Tab.0.center" timestamp="1606403773817">
+    <state width="1323" height="188" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606404943871" />
+    <state width="1323" height="188" key="GridCell.Tab.0.center" timestamp="1606404943871">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="188" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606403773817" />
-    <state width="1323" height="188" key="GridCell.Tab.0.left" timestamp="1606403773817">
+    <state width="1323" height="188" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606404943871" />
+    <state width="1323" height="188" key="GridCell.Tab.0.left" timestamp="1606404943871">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="188" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606403773817" />
-    <state width="1323" height="188" key="GridCell.Tab.0.right" timestamp="1606403773817">
+    <state width="1323" height="188" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606404943871" />
+    <state width="1323" height="188" key="GridCell.Tab.0.right" timestamp="1606404943871">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="188" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606403773817" />
+    <state width="1323" height="188" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606404943871" />
     <state x="485" y="75" key="com.intellij.ide.util.TipDialog" timestamp="1606362808092">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
