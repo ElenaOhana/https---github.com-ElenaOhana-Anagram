@@ -34,7 +34,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
   </component>
-  <component name="RunManager" selected="Application.ExeFunction01">
+  <component name="RunManager" selected="Application.ExeFunction03">
     <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Anagram" />
       <module name="Anagram" />
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exe_Arrays05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exe_Arrays05" />
+    <configuration name="ExeFunction03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExeFunction03" />
       <module name="Anagram" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExeFunction03" />
+        <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.ExeFunction01" />
         <item itemvalue="Application.ExeFunction02" />
-        <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.Exe_Arrays07" />
-        <item itemvalue="Application.Exe_Arrays05" />
       </list>
     </recent_temporary>
   </component>
@@ -94,22 +94,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="201" key="GridCell.Tab.0.bottom" timestamp="1606428367415">
+    <state width="1323" height="213" key="GridCell.Tab.0.bottom" timestamp="1606478915554">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="201" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606428367415" />
-    <state width="1323" height="201" key="GridCell.Tab.0.center" timestamp="1606428367414">
+    <state width="1323" height="213" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606478915554" />
+    <state width="1323" height="213" key="GridCell.Tab.0.center" timestamp="1606478915554">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="201" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606428367414" />
-    <state width="1323" height="201" key="GridCell.Tab.0.left" timestamp="1606428367414">
+    <state width="1323" height="213" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606478915554" />
+    <state width="1323" height="213" key="GridCell.Tab.0.left" timestamp="1606478915554">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="201" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606428367414" />
-    <state width="1323" height="201" key="GridCell.Tab.0.right" timestamp="1606428367414">
+    <state width="1323" height="213" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606478915554" />
+    <state width="1323" height="213" key="GridCell.Tab.0.right" timestamp="1606478915554">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="201" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606428367414" />
+    <state width="1323" height="213" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606478915554" />
     <state x="485" y="75" key="com.intellij.ide.util.TipDialog" timestamp="1606427165684">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -126,16 +126,5 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606152511962" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays_Matrix.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
