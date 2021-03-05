@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b703eeeb-f1f9-4e64-a89e-c5619a8d9194" name="Default Changelist" comment="" />
+    <list default="true" id="b703eeeb-f1f9-4e64-a89e-c5619a8d9194" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Anagram.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,10 +43,10 @@
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -34,9 +55,16 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
   </component>
-  <component name="RunManager" selected="Application.ExeFunction03">
+  <component name="RunManager" selected="Application.Anagram">
     <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Anagram" />
+      <module name="Anagram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exe09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exe09" />
       <module name="Anagram" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,23 +91,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exe_Arrays07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exe_Arrays07" />
-      <module name="Anagram" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExeFunction03" />
         <item itemvalue="Application.Anagram" />
+        <item itemvalue="Application.Exe09" />
+        <item itemvalue="Application.ExeFunction03" />
         <item itemvalue="Application.ExeFunction01" />
         <item itemvalue="Application.ExeFunction02" />
-        <item itemvalue="Application.Exe_Arrays07" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -93,38 +115,26 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1323" height="213" key="GridCell.Tab.0.bottom" timestamp="1606478915554">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="213" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606478915554" />
-    <state width="1323" height="213" key="GridCell.Tab.0.center" timestamp="1606478915554">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="213" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606478915554" />
-    <state width="1323" height="213" key="GridCell.Tab.0.left" timestamp="1606478915554">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="213" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606478915554" />
-    <state width="1323" height="213" key="GridCell.Tab.0.right" timestamp="1606478915554">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="213" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606478915554" />
-    <state x="485" y="75" key="com.intellij.ide.util.TipDialog" timestamp="1606427165684">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="485" y="75" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606427165684" />
-    <state x="413" y="126" key="extract.method.dialog" timestamp="1606335271295">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="126" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1606335271295" />
-    <state x="391" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1606110367245">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="391" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1606110367245" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1606152511962">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606152511962" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -36,7 +36,7 @@ import java.util.Arrays;
 public class Anagram{
     private boolean validAnagram(String str, String pair) {
         if(str.length() != pair.length()) {
-            return  false;
+            return false;
         }
         char[] strArr = str.toCharArray();
         char[] pairArr = pair.toCharArray();
